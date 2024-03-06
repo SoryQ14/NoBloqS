@@ -1,0 +1,22 @@
+{
+  "name": "nobloq.js",
+  "version": "1.0.0",
+  "description": "prueba del modelo no bloqueante en node.js",
+  "main": "nobloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoryQ14/NoBloqS.git"
+  },
+  "keywords": [
+    "nobloqueante"
+  ],
+  "author": "Soraya Quintana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoryQ14/NoBloqS/issues"
+  },
+  "homepage": "https://github.com/SoryQ14/NoBloqS#readme"
+}
